@@ -1,2 +1,2 @@
-# Codedex-Practice
+# Code-Practice
 for Practice
